@@ -9,8 +9,7 @@
           "**/obj/**",
           "**/includes/**",
           "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
+          "LICENSE"
         ]
       }
     ],
